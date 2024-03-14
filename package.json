@@ -1,5 +1,5 @@
 {
-  "name": "lib-vanilla-ts",
+  "name": "@dd/lib-vanilla-ts",
   "private": true,
   "version": "0.0.0",
   "type": "module",
