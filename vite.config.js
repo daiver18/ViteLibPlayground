@@ -11,6 +11,7 @@ export default defineConfig({
       entry: [
         resolve(__dirname, 'src/index.ts'),
         resolve(__dirname, 'src/counter.ts'),
+        resolve(__dirname, 'src/types.ts'),
       ],
       formats: ["es"],
       name: 'index',

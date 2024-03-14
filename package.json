@@ -10,6 +10,9 @@
     },
     "./counter": {
       "import": "./dist/counter.js"
+    },
+    "./types": {
+      "import": "./dist/types.js"
     }
   },
   "files": [
